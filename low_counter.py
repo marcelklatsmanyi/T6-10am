@@ -1,5 +1,5 @@
 # This script defines a function to count the number of items less than 10 in a list of
-# numbers.
+# numbers. julie
 def count_low(item_list):
     count = 0
     for item in item_list:
